@@ -44,6 +44,9 @@
     <Compile Include="Dictionary\SillyDictionary.cs" />
     <Compile Include="Dictionary\SlightlyBetterDictionary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Square\Rectangle.cs" />
+    <Compile Include="Square\Square.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

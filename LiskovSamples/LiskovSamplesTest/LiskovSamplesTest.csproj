@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="DictionaryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RectangleTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
