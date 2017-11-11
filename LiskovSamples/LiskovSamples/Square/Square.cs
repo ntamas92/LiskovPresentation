@@ -11,21 +11,13 @@ namespace LiskovSamples.Square
         public override double Width
         {
             get => base.Width;
-            set
-            {
-                base.Width = value;
-                base.Height = value;
-            }
+            set => base.Width = base.Height = value;
         }
 
         public override double Height
         {
             get => base.Height;
-            set
-            {
-                base.Height = value;
-                base.Width = value;
-            }
+            set => base.Width = base.Height = value;
         }
     }
 }
