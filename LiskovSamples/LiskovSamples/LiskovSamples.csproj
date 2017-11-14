@@ -40,7 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CodeContracts\SillyList.cs" />
     <Compile Include="Duck\Duck.cs" />
     <Compile Include="Duck\ToyDuck.cs" />
     <Compile Include="Locator.cs" />
